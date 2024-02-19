@@ -15,4 +15,4 @@ jobs:
       - name: now it is
         run: date
       - name: directory content
-        run: ls la
+        run: ls -la
